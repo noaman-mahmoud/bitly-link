@@ -1,0 +1,33 @@
+{
+    "name": "noaman-mahmoud/bitly-link",
+    "description": "shorten urls",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noaman Mahmoud",
+            "email": "noaman066@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "NoamanMahmoud\\BitlyLink\\" : "src/"
+        },
+        "files": [
+            "src/Helpers.php"
+        ]
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NoamanMahmoud\\BitlyLink\\BitlyServiceProvider"
+            ],
+            "aliases": {
+                "Bitly": "NoamanMahmoud\\BitlyLink\\Bitly"
+            }
+        }
+    }
+}
