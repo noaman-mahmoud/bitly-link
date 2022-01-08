@@ -1,5 +1,5 @@
 <?php
-namespace NoamanMahmoud\Bitly;
+namespace NoamanMahmoud\BitlyLink;
 
 class Bitly {
 

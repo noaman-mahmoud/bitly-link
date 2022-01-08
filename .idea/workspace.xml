@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fb73dc5-79d1-421b-8374-62727085a96c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BitlyLink.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bitly.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitlyServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BitlyServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641476890631</updated>
-      <workItem from="1641476891951" duration="4152000" />
+      <workItem from="1641476891951" duration="5039000" />
     </task>
     <servers />
   </component>

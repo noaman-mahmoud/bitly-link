@@ -1,6 +1,6 @@
 <?php
 
-namespace NoamanMahmoud\Bitly;
+namespace NoamanMahmoud\BitlyLink;
 use Illuminate\Support\ServiceProvider;
 
 class BitlyServiceProvider extends ServiceProvider {
