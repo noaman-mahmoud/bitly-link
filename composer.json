@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Noaman Mahmoud",
-            "email": "noaman066@gmail.com"
+            "email": "no3man.mahmoud@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -23,10 +23,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "NoamanMahmoud\\BitlyLink\\BitlyServiceProvider"
+                "NoamanMahmoud\\Bitly\\BitlyServiceProvider"
             ],
             "aliases": {
-                "Bitly": "NoamanMahmoud\\BitlyLink\\Bitly"
+                "Bitly": "NoamanMahmoud\\Bitly\\Bitly"
             }
         }
     }
